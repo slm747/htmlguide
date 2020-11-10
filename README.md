@@ -1,2 +1,0 @@
-# htmlguide
-HTML Guide
